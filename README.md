@@ -1,6 +1,6 @@
 # 从这开始
 
-考核题目[click here](https://github.com/mechanical-ancestor/task7/tree/main)
+考核题目[click here](https://github.com/mechanical-ancestor/task7/tree/main),并且有初代代码。此仓库内容必然会不断完善升级。
 
 ### 自瞄项目目录结构
 
